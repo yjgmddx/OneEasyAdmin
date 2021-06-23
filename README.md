@@ -39,8 +39,11 @@ vue-element-admin 官方文档：https://panjiachen.github.io/vue-element-admin-
 6.views 页面
     6.1 zComRegister.ts主界面控件展示的核心注册控件单元
     6.2 Home.vue 主界面 主要是布局的展示，以及页面当控件的展示区域
+##### 赞助作者
+![微信收款码](https://github.com/flmbbb/OneEasyAdmin/blob/main/src/assets/img/%E5%BE%AE%E4%BF%A1%E6%94%B6%E6%AC%BE%E7%A0%81.png)
+![支付宝收款码](https://github.com/flmbbb/OneEasyAdmin/blob/main/src/assets/img/%E6%94%AF%E4%BB%98%E5%AE%9D%E6%94%B6%E6%AC%BE%E7%A0%81.png)
 ##### 作者简介
-姓名:范联满 联系QQ：378464060
+姓名:范联满 联系QQ：378464060 交流QQ群:437551621
 教育经历:爱玩，把青春多浪费了。读书是有用的，如果你读书只是为了玩，就是对自已的未来不负责，感觉就是在浪费青春，
 人生经历:当过网管扫过地，进过工厂当小弟，人生坎坷，最终发粪图墙，最终独霸一方
 会什么:
